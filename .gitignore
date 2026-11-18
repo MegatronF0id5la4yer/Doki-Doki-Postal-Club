@@ -1,0 +1,19 @@
+# Generated packages, screenshots, and demo build artifacts (>100MB total)
+out/
+__pycache__/
+*.pyc
+*.pyo
+
+# Large Unreal / media binaries & backups
+*.ukx
+*.utx
+*.uax
+*.ogg
+*.wav
+*.mp4
+*.log
+*.bak_orig
+
+
+# Third-party Workshop content (not redistributed)
+l4d2_workshop_vpks/
